@@ -22,7 +22,7 @@ My part: the dynamic pathfinding engine, Smart Waiting logic and UI. **−40% gl
 #### 🛠️ Toolbox
 
 **AI & data:** RAG, embeddings, LLM APIs (Mistral, OpenAI), LangChain, ChromaDB, LLM-as-judge evaluation
-**Languages:** Python, Java, C#, SQL
+**Languages:** Python, Java, C, C#, SQL, R
 **Engineering:** Starlette, JavaFX, Docker, Git, Unity
 
 #### 📫 Reach me
